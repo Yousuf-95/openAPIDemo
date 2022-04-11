@@ -24,7 +24,7 @@
                 },
                 "responses": {
                     "200": {
-                        "description": "new user registration successfully",
+                        "description": "new user registered successfully",
                         "content": {
                             "application/json": {
                                 "schema": {
